@@ -23,11 +23,9 @@ app.use(express.static(path.join(__dirname, "public")));
 mongoose.connect(process.env.MONGODB_URI);
 
 mongoose.connection.on("connected", () => {
-  console.log(`Connected to MongoDB.`);
 });
 
-mongoose.connection.on("error", (err) => {
-  console.log(err); 
+mongoose.connection.on("error", (err) => { 
 });
 
 const Movie = require("./models/movies")
