@@ -11,7 +11,7 @@
 
 Film Fanatics is a full-stack web application where movie enthusiasts can browse movies, read and post reviews, and interact with the community by adding thier favorite movies, edit and delete them how ever they would like.
 
-## Getting started: (deployment link) [https://filmfanatics-a79d7b35aad5.herokuapp.com/]
+## Getting started: deployment link <https://filmfanatics-a79d7b35aad5.herokuapp.com/>
 
 ## Features
 
@@ -21,10 +21,10 @@ Film Fanatics is a full-stack web application where movie enthusiasts can browse
 
 ## Attributions:
 
-1. [https://developer.mozilla.org/en-US/] MDN
-2. [https://chatgpt.com/] ChatGPT
-3. [https://www.geeksforgeeks.org/] GeeksForGeeks
-4. [https://www.mongodb.com/] MongoDB
+1. <https://developer.mozilla.org/en-US/> MDN
+2. <https://chatgpt.com/> ChatGPT
+3. <https://www.geeksforgeeks.org/> GeeksForGeeks
+4. <https://www.mongodb.com/> MongoDB
 
 ## Technologies used:
 
