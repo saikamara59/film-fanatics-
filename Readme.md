@@ -15,7 +15,7 @@ Film Fanatics is a full-stack web application where movie enthusiasts can browse
 
 ## Features
 
-- Movie Listings: Browse movies with details like title, genre, release year, and description.
+- Movie Listings: Browse movies with details like title, genre, release year, and descriptions.
 - User Reviews: Post reviews for movies and view reviews left by other users.
 - Users can create, edit, or delete their own movies and reviews, ensuring that only the original creator has control over the content they have submitted.
 
