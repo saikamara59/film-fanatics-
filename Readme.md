@@ -5,7 +5,7 @@
 ![Screenshot 2024-10-06 222158](https://github.com/user-attachments/assets/ecc05b09-6667-449d-ba72-85a071ebf5d1)
 
 
-# FilmFanatics  a platform where users can rate and write reviews for movies.
+# FilmFanatics  a platform where users can add,edit and delete movies and also write reviews for movies.
 
 ## About - Description:
 
